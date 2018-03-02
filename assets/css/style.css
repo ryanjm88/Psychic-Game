@@ -1,0 +1,26 @@
+.container-fluid    {
+    text-align: center;
+}
+
+h1  {
+    background-color: navy;
+    color:lightgrey;
+    padding: 20px;
+    border-radius: 20px;
+    width: 100%;
+}
+
+h3  {
+    text-align: left;
+}
+
+#legame {
+    border: black 3px solid;
+    border-radius: 25px;
+    background-color: lightgray;
+}
+
+p   {
+    text-align: left;
+    margin: 10px;
+}
